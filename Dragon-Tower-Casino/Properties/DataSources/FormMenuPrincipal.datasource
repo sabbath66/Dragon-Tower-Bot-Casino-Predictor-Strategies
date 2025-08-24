@@ -8,3 +8,4 @@
 <GenericObjectDataSource DisplayName="FormMenuPrincipal" Version="1.0" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
    <TypeInfo>COMPLETE_FLAT_UI.FormMenuPrincipal, COMPLETE_FLAT_UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</TypeInfo>
 </GenericObjectDataSource>
+
